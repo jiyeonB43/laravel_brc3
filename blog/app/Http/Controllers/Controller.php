@@ -28,5 +28,11 @@ class Controller extends BaseController
     {
       echo 'test 3';
     }
+
+
+    public function AddControllerFuntion4()
+    {
+      echo 'test 4';
+    }
 }
 
